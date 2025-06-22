@@ -1,0 +1,39 @@
+Hireazy Assignment
+Dear candidate,
+Thanks for your interest in joining us at Hireazy. We’d like to give you a short assignment to help us
+understand your approach to problem-solving, initiative, and mindset.
+Please submit your work by 23rd June 2025, Monday.
+Let’s get into it;
+Task brief:
+Build a basic two-user interview simulation room (a stripped-down version of a real feature we’re working
+on).
+Core Features:
+- Two roles: Interviewer and Candidate
+- Basic chat functionality (text-based messaging)
+- Interviewer-only file upload (PDF or TXT)
+- Minimal and clean design
+Bonus (Optional)
+- Add an interface to start/end the interview
+- Suggest 1–2 features you'd add if this was a real product
+What are we looking for?
+- Ownership and clarity of thought
+- Ability to work independently
+- Product-first thinking
+- Code structure and basic design
+- Attitude, hunger, and learning mindset
+What to submit
+1. Your code (GitHub link or ZIP file)
+2. A short README including:
+ - Tech stack used
+ - How your solution works (in plain English)
+ - What you'd improve with more time
+3. (Optional) A Loom video or Google Doc explaining your thought process
+
+A few quick questions (200 words max each):
+1. Tell me about a time when you made a mistake while building something. What did you do next?
+2. Why are you applying to an early-stage startup instead of a safer job or internship?
+3. If you were to build a product alone, how would you go about it – step by step? (Be honest, no
+right or wrong)
+
+how would you build this?
+give me a detailed idea on tech and how the functionality is implemented.
