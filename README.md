@@ -1,18 +1,12 @@
 # Hireazy - Interview Simulation Room
 
-> **Note About Commits:**
-> This project was developed in a private repository and was later cloned to this public repo.
+> **Note About Commits:**  
+> This project was developed in a private repository and was later cloned to this public repo.  
 > That is why you will find only one commit in the history.
-
-
-
-
-
-
 
 A full-stack web application for conducting mock interviews with real-time chat, file sharing, and interview controls. Built as part of the Hireazy assignment to demonstrate technical skills and product thinking.
 
-
+---
 
 ## Features
 
@@ -31,6 +25,8 @@ A full-stack web application for conducting mock interviews with real-time chat,
 - **Connection Status**: Visual indicators for socket connection
 - **User Presence**: Live user status and activity indicators
 - **Responsive Design**: Works on desktop and mobile
+
+---
 
 ## Tech Stack
 
@@ -53,10 +49,25 @@ A full-stack web application for conducting mock interviews with real-time chat,
 - **React Hot Toast** - Notifications
 - **Lucide React** - Icon library
 
-## Features in Consideration:
-> **What I would add or improve over time:**
-1.integrate aws s3 for storage.(started working on it on another clone of this repo already)
-2.add AI summarisation after the interview has ended and store it for future consideration.
-3.add scheduling + mail functionality for interviews. ai summaries can also be mailed.
-4.Video/Audio Calling.
-5.Code editor integration.
+---
+
+## 🔮 Features in Consideration
+
+
+
+1. **Cloud File Storage via AWS S3**  
+   Store uploaded files securely in the cloud for better scalability and reliability. *(Work in progress in a separate development branch.)*
+
+2. **AI-Powered Interview Summaries**  
+   Automatically generate post-interview summaries using AI and store them for future reference.
+
+3. **Interview Scheduling & Email Integration**  
+   Enable users to schedule interviews and send email reminders, including AI-generated summaries post-interview.
+
+4. **Video and Audio Calling Support**  
+   Add real-time video/audio communication to simulate a more realistic interview environment.
+
+5. **Collaborative Code Editor**  
+   Embed a real-time code editor for technical interviews with live collaboration and syntax highlighting.
+
+---
