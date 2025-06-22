@@ -53,4 +53,10 @@ A full-stack web application for conducting mock interviews with real-time chat,
 - **React Hot Toast** - Notifications
 - **Lucide React** - Icon library
 
-## Quick Start
+## Features in Consideration:
+> **What I would add or improve over time:**
+1.integrate aws s3 for storage.(started working on it on another clone of this repo already)
+2.add AI summarisation after the interview has ended and store it for future consideration.
+3.add scheduling + mail functionality for interviews. ai summaries can also be mailed.
+4.Video/Audio Calling.
+5.Code editor integration.
