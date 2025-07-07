@@ -47,7 +47,6 @@ A full-stack web application for conducting mock interviews with real-time chat,
 - **Socket.io Client** - Real-time communication
 - **Axios** - HTTP client
 - **React Hot Toast** - Notifications
-- **Lucide React** - Icon library
 
 ---
 
@@ -67,7 +66,10 @@ A full-stack web application for conducting mock interviews with real-time chat,
 4. **Video and Audio Calling Support**  
    Add real-time video/audio communication to simulate a more realistic interview environment.
 
-5. **Collaborative Code Editor**  
-   Embed a real-time code editor for technical interviews with live collaboration and syntax highlighting.
+5. **Collaborative Code Editor(low priority)**  
+   Embed a real-time code editor for technical interviews with live collaboration and syntax highlighting (similar to hackerrank).
+   
+6.**Implement a proper auth mechanism + email functionality**
+   might use clerk or could do it on my own as well. then implement mailing functionality using nodemailer.
 
 ---
